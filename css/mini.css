@@ -1,0 +1,6 @@
+.fondo{
+    background-image: url(../img/imagen_xs.jpg);
+    height: auto;
+    max-width:100%;
+    background-repeat: no-repeat;
+}
